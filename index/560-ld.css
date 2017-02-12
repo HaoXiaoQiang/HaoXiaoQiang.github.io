@@ -1,0 +1,167 @@
+.t-560-banner{
+}
+.car-560-model{
+  display: none;
+}
+.model_detail .whole .whole_right .img #allmapLd{
+  width: 100%;
+  height: 100%;
+}
+.xinglixiang .slideBoxLd3,
+.xinglixiang .slideBoxLd4{
+  width: 100%;
+  height: 100%;
+}
+.xinglixiang .slideBoxLd3 .bd,
+.xinglixiang .slideBoxLd3 .tempWrap,
+.xinglixiang .slideBoxLd3 .bd ul{
+  height: 100%;
+  font-size: 0;
+}
+.xinglixiang .slideBoxLd4 .bd,
+.xinglixiang .slideBoxLd4 .tempWrap,
+.xinglixiang .slideBoxLd4 .bd ul{
+  height: 100%;
+  font-size: 0;
+}
+.xinglixiang .slideBoxLd3 .bd li { position: relative; display: inline-block !important; height: 100%; overflow: hidden; }
+.xinglixiang .slideBoxLd4 .bd li { position: relative; display: inline-block !important; height: 100%; overflow: hidden; }
+.car-560-ld-model .detail .item-1039{
+  max-width: 1039px;
+}
+.car-560-ld-model .detail .item_left_right .img_right{
+  width:36%;
+  height: 263px;
+}
+.car-560-ld-model .detail .item_left_right .intro_left{
+  width:64%;
+  height: 263px;
+}
+.car-560-ld-model .detail .item_left_right .img_left{
+  width: 64%;
+  height: 348px;
+}
+.car-560-ld-model .detail .item_left_right .intro_right{
+  width: 36%;
+  height: 348px;
+}
+.car-560-ld-model .detail .item_left_right .img_right img{
+  margin-left: -196px;
+}
+.car-560-ld-model .detail .item_left_right .img_left img{
+  margin-left: -347px;
+}
+.car-560-ld-model .detail .item_left_right .intro_left_ld2{
+  width:36%;
+  height: 350px;
+}
+.car-560-ld-model .detail .item_left_right .img_right_ld2{
+  width:64%;
+  height: 350px;
+}
+.car-560-ld-model .detail .item_left_right .intro_right_ld2{
+  width:64%;
+  height: 263px;
+}
+.car-560-ld-model .detail .item_left_right .img_right_ld2 img{
+  margin-left: -324px;
+}
+.car-560-ld-model .detail .item_left_right .img_left_ld2{
+  width: 36%;
+  height: 263px;
+}
+.car-560-ld-model .detail .item_left_right .img_left_ld2 img{
+  margin-left: -195px;
+}
+.menu-tab-560-ld{
+  text-align: center;
+  padding-top: 72px;
+}
+.menu-tab-560-ld a{
+  display: inline-block;
+  width: 198px;
+  height: 51px;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-image: url("../images/560-ld/tab-bg.png");
+  color: #4c4c4c;
+  text-align: center;
+  font-size: 15px;
+  line-height: 40px;
+  vertical-align: middle;
+  cursor: pointer;
+}
+.menu-tab-560-ld a.active{
+  color: #ffffff;
+  background-image: url("../images/560-ld/tab-over.png");
+}
+.car-560-ld-model .service_box .btn_service{
+  margin-top: 22px;
+  margin-bottom: 20px;
+}
+@media only screen and (max-width: 767px){
+  .car-560-ld-model .detail .item_left_right .img_right{
+    width:100%;
+    height: auto;
+  }
+  .car-560-ld-model .detail .item_left_right .intro_left{
+    width:100%;
+    height: auto;
+  }
+  .car-560-ld-model .detail .item_left_right .img_left{
+    width:100%;
+    height: auto;
+  }
+  .car-560-ld-model .detail .item_left_right .intro_right{
+    width:100%;
+    height: auto;
+  }
+  .car-560-ld-model .detail .item_left_right .img_right img{
+    margin-left:0;
+  }
+  .car-560-ld-model .detail .item_left_right .img_left img{
+    margin-left:0;
+  }
+  .car-560-ld-model .detail .item_left_right .intro_left_ld2{
+    width:100%;
+    height: auto;
+  }
+  .car-560-ld-model .detail .item_left_right .img_right_ld2{
+    width:100%;
+    height: auto;
+  }
+  .car-560-ld-model .detail .item_left_right .intro_right_ld2{
+    width:100%;
+    height: 263px;
+  }
+  .car-560-ld-model .detail .item_left_right .img_right_ld2 img{
+    margin-left:0;
+  }
+  .car-560-ld-model .detail .item_left_right .img_left_ld2{
+    width:100%;
+    height: auto;
+  }
+  .car-560-ld-model .detail .item_left_right .img_left_ld2 img{
+    margin-left:0;
+  }
+  .car-560-ld-model .detail p{
+    width: auto!important;
+    text-align: left;
+  }
+  .menu-tab-560-ld{
+    padding-top: 35px;
+    margin: 0 15px;
+  }
+  .menu-tab-560-ld a.active{
+    background-color: #999999;
+  }
+  .menu-tab-560-ld a{
+    display: block;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    border: 1px #999999 solid;
+    background: none;
+    margin-bottom: 15px;
+  }
+}
