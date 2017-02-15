@@ -488,8 +488,8 @@ h1.logo a { display: block; height: 100%; }
 .slideBox { position: relative; }
 .slideBox .hd { position: absolute; bottom: 5%; left: 0; width: 100%; height: 15px; }
 .slideBox .hd ul { width: 100%; font-size: 0; text-align: center; }
-.slideBox .hd li { display: inline-block; width: 15px; height: 15px; margin: 0 5px; background: url(./index/ico_1.png) center center no-repeat; background-size: cover; }
-.slideBox .hd li.on { background: url(./index/ico_2.png) center center no-repeat; background-size: cover; }
+.slideBox .hd li { display: inline-block; width: 15px; height: 15px; margin: 0 5px; background: url(./ico_1.png) center center no-repeat; background-size: cover; }
+.slideBox .hd li.on { background: url(./ico_2.png) center center no-repeat; background-size: cover; }
 .slideBox .bd { }
 .slideBox .bd li { }
 .slideBox .bd li:hover { }
